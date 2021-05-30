@@ -2,7 +2,7 @@
 - 👀 I’m interested in javascript, node js and linux.  
 - 🌱 I’m currently learning d3js(visualization library) and docker
 - 💞️ I am looking to collaborate on visualization and artificial intelligence projects.
-- 📫 You can contact me by sending an email to squareivan1990@gmail.com
+- 📫 You can contact me by sending an email to cuadradoivan1990@gmail.com
 
 <!---
 locuracausal/locuracausal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
